@@ -16,7 +16,6 @@ For more information about getting started with and using the MPLAB Mindi Analog
 
 * [PIC16F17146 Product Page](https://www.microchip.com/en-us/product/PIC16F17146)
 * [PIC16F17146 Data Sheet](https://www.microchip.com/DS40002343)
-* [PIC16F17146 Curiosity Nano User Guide](https://www.microchip.com/DS50003037)
 
 ## Related Software
 * [TDS in water measurement Code Examples](https://github.com/microchip-pic-avr-examples/pic16f17146-water-tds-measurement-mplab-mcc)
@@ -24,7 +23,7 @@ For more information about getting started with and using the MPLAB Mindi Analog
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-relaxation-oscillator-circuit-using-OPA-mindi/releases/tag/1.0.0)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/pic16f17146-relaxation-oscillator-circuit-using-OPA-mindi/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
